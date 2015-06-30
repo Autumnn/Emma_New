@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Emma_New</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Display">The screen has been changed!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_emma__display">Emma_Display</string>
+    <string name="Fu_URL">https://www.mi.fu-berlin.de/offload/ocr/uploadimage</string>
+    <string name="pendentValue">Pendent Value</string>
+    <string name="Dir">/mnt/sdcard/</string>
+    <string name="title_activity_my_display">my_display</string>
+    <string name="Notify_ticker"></string>
+    <string name="Notify_title">Emma_New</string>
+    <string name="Notify_message">Emma_New Service is Running</string>
+
+</resources>

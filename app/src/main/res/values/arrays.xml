@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Restart_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>infinite</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="debug" >
+        <source path="/storage/mi/wangqs/Android/Workplace/Emma_New/tesstwo/build/intermediates/bundles/debug/res" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/storage/mi/wangqs/Android/Workplace/Emma_New/tesstwo/src/androidTest/res" />
+        <source path="/storage/mi/wangqs/Android/Workplace/Emma_New/tesstwo/build/generated/res/rs/test/debug" />
+        <source path="/storage/mi/wangqs/Android/Workplace/Emma_New/tesstwo/build/generated/res/generated/test/debug" />
+    </dataSet>
+
+</merger>
